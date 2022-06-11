@@ -1,1 +1,1 @@
-# boas-pr-ticas-bootstrap
+# boas-praticas-bootstrap
